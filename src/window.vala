@@ -16,7 +16,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-namespace Librepos {
+namespace LibrePOS {
 	[GtkTemplate (ui = "/com/github/librepos/librepos/window.ui")]
 	public class Window : Gtk.ApplicationWindow {
 		[GtkChild]
