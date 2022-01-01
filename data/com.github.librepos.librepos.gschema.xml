@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="librepos">
+	<schema id="com.github.librepos.librepos" path="/com/github/librepos/librepos/">
+	</schema>
+</schemalist>
