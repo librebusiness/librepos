@@ -1,7 +1,0 @@
-[Desktop Entry]
-Name=librepos
-Exec=librepos
-Terminal=false
-Type=Application
-Categories=GTK;
-StartupNotify=true
